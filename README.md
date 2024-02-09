@@ -1,2 +1,3 @@
 # Landslide-Detection-using-Satellite-Images
 #### The Landslide Prediction Project uses machine learning to assess geohazard risks. It collects geological, topographical, and environmental data and selects important features to accurately identify landslide-prone areas. Using the TensorFlow U-Net model, it develops a predictive model with historical data, ensuring reliability. Stakeholders can access and interpret the model outputs through a user-friendly interface. The project advances landslide prediction, aiding proactive risk management in geohazard-prone regions. 
+![image](https://github.com/thecodologist/Landslide-Detection-using-Satellite-Images/assets/74459028/c883683e-6e70-4866-9377-746c7ec1cd51)
